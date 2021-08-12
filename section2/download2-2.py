@@ -5,6 +5,7 @@ htmlURL = "https://www.google.co.kr/"
 
 savePath1 = "C:/Users/user/PycharmProjects/web_crawling/test1.jpg"
 savepath2 = "C:/Users/user/PycharmProjects/web_crawling/index.html"
-dw.urlretrieve(imgUrl, savePath1)
-dw.urlretrieve(htmlURL, savepath2)
+
+
+
 print("다운로드 완료!")
